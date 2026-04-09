@@ -209,10 +209,10 @@ This tool is for educational purposes. Always verify important information with 
 
 ## 👨‍💻 Author
 
-**Manish Raj**
-- 📧 Manishraj20526@gmail.com
-- 💼 [LinkedIn](https://linkedin.com)
-- 🐙 [GitHub](https://github.com)
+**Krishna Bai B**
+- 📧 krishnabaib03@gmail.com
+- 💼 [LinkedIn](www.linkedin.com/in/krishna-bai03)
+- 🐙 [GitHub](https://github.com/krishnabaib)
 
 ---
 
